@@ -1,0 +1,7 @@
+{
+  "name": "ZenithHRMS - Multi-Tenant HRMS SaaS Prototype",
+  "description": "Interactive multi-tenant HRMS SaaS frontend prototype featuring HR, Payroll, Geofence Attendance, Performance, Recruitment, Super Admin Module Assignment, and approval workflows.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
